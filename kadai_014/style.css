@@ -1,0 +1,28 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+
+#first-heading {
+  font-family: 'Josefin Sans', sans-serif;  /* Googleフォント「Josefin Sans Regular 400」使用 */
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 2px lightgray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.text-skyblue {
+  color: skyblue;
+}
+
+.text-pink {
+  color: rgb(255, 192, 203);
+}
+
+#basic > p {
+  font-weight: bold;
+}
